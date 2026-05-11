@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI2bWk1dWQ5cG9nZ2Y1b2N0bW9jZWh3b3RzNWU4MnN5Njg0c2w0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="100%">
+  <!--<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI2bWk1dWQ5cG9nZ2Y1b2N0bW9jZWh3b3RzNWU4MnN5Njg0c2w0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="100%">-->
 </p>
 
 <h1 align="center">🖥️ Sistemas Operativos & Arquitectura de Computadoras</h1>
@@ -39,7 +39,7 @@
 # 🧠 Temas de Sistemas Operativos
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700px">
+  <!--<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700px">-->
 </p>
 
 ## 📌 Procesos
@@ -68,7 +68,7 @@
 # ⚙️ Temas de Arquitectura
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700px">
+  <!--<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700px">-->
 </p>
 
 ## 🔌 Microprogramación
